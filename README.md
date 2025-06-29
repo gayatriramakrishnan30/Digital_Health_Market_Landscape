@@ -1,6 +1,6 @@
 # 📊 Digital Health Market Landscape
 
-**A Power BI dashboard project analyzing global competition in the wearable health tech market using public datasets.**
+**A Power BI dashboard project analysing global competition in the wearable health tech market using public datasets.**
 
 ---
 
@@ -8,11 +8,11 @@
 
 This project explores how leading wearable health device companies compare in terms of:
 - Product innovation
-- Regulatory readiness (e.g., MDR compliance)
+- Regulatory readiness (ex. MDR compliance)
 - Geographic reach
 - Market positioning
 
-It simulates a real-world benchmarking analysis to support strategic decisions in pricing, regional expansion, and product feature differentiation — through interactive dashboards and structured datasets.
+It simulates a real-world benchmarking analysis to support strategic decisions in pricing, regional expansion, and product feature differentiation, through interactive dashboards and structured datasets.
 
 ---
 
@@ -32,7 +32,7 @@ It simulates a real-world benchmarking analysis to support strategic decisions i
 ## 📈 Dashboard Features (Power BI)
 
 - **Feature vs Price Bubble Chart:** Shows value positioning of each device  
-- **MDR Compliance Chart:** Visualizes regulatory readiness by brand  
+- **MDR Compliance Chart:** Visualises regulatory readiness by brand  
 - **Regional Coverage Map:** Displays device availability across countries  
 - **Launch Timeline:** Highlights innovation trends over time  
 - **Slicers:** Filter by segment, form factor, compliance, and year
@@ -67,7 +67,7 @@ This mock project demonstrates how real-world data and analytics tools like Powe
 - **Regulatory planning**
 - **Digital health market analysis**
 
-It reflects my focus on bridging science, strategy, and data — especially in the life sciences and healthcare space.
+It reflects my focus on bridging science, strategy, and data - especially in the life sciences and healthcare space.
 
 ---
 

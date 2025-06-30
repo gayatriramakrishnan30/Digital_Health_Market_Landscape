@@ -38,7 +38,7 @@ It simulates a real-world benchmarking analysis to support strategic decisions i
 - **Slicers:** Filter by segment, form factor, compliance, and year
 
 ---
-
+<!--
 ## 🔑 Key Insights
 
 - Most MDR-compliant devices cluster in the **premium segment**
@@ -59,7 +59,7 @@ It simulates a real-world benchmarking analysis to support strategic decisions i
 | `README.md` | Project description and insights |
 
 ---
-
+-->
 ## 🧠 Why This Project
 
 This mock project demonstrates how real-world data and analytics tools like Power BI can be used to support:
